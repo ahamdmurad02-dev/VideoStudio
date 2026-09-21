@@ -1,0 +1,60 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+*.idsig
+*.dex
+*.class
+
+# Keystores, certificates, and signing material
+*.jks
+*.keystore
+*.p12
+*.pem
+debug.keystore
+debug.keystore.base64
+my-upload-key.jks
+
+# Secrets and local configuration
+local.properties
+keystore.properties
+secrets.properties
+google-services.json
+.env
+.env.local
+.env.*.local
+*.key
+*.crt
+
+# Gradle
+.gradle/
+build/
+*/build/
+.build-outputs/
+gradle-app.setting
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+captures/
+.navigation/
+output.json
+
+# Kotlin / native
+.kotlin/
+.externalNativeBuild
+.cxx
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+*~

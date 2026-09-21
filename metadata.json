@@ -1,0 +1,6 @@
+{
+  "name": "VideoStudio",
+  "description": "CapCut-style video editing suite with screen recording, clip splitting, chroma key background removal, filters, and MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
